@@ -1,6 +1,6 @@
 <h6>[cobbdzon@github ~]$ fastfetch</h6>
 
-<img align="left" height="384" src="https://github.com/cobbdzon.png"/>
+<img align="left" height="320" src="https://github.com/cobbdzon.png"/>
 <img align="right" width="64" height="64" src="https://media.tenor.com/bhewUhwCTYYAAAAi/tux-linux-tux.gif"/>
 <h3 align="left">cobbdzon@github</h3>
 <h5 align="left">Just your average programmer and tinkerer</h5>
