@@ -1,4 +1,14 @@
-### Pagod na po akong magbuhat ng group activities sa ICT 
-<img src="https://media.tenor.com/kIwODyCeXggAAAAC/walter-white-dancing.gif" width="250"/>
+<h6>[cobbdzon@github ~]$ fastfetch</h6>
 
-A genetically average filipino male that happens to be a programmer that's proficient with Luau and familiar with Lua, Python, HTML, CSS, Javascript, a small bit of TypeScript. Still trying to learn other programming languages in my spare time because I aspire to be a computer scientist one day.
+<img align="left" height="256" src="https://github.com/cobbdzon.png" />
+<h3 align="left">cobbdzon@github</h3>
+<h5 align="left">Just your average programmer and tinkerer</h5>
+───────────────@────────────────
+<h6 align="left">
+  [cobbdzon@github ~]$ aboutme <br>
+  &nbsp;├──Linux enthusiast <br>
+  &nbsp;├──Proxmox homelabber <br>
+  &nbsp;└──Self-learning I.T., Networking, and Cybersecurity
+</h6>
+
+[![my skills](https://skillicons.dev/icons?i=linux,docker,py,lua,html,sass,js,arduino,java)](https://skillicons.dev)
