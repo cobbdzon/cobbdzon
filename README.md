@@ -14,4 +14,4 @@
   &nbsp;└──A loving boyfriend
 </h6>
 
-&nbsp;&nbsp;[![my skills](https://skillicons.dev/icons?i=linux,docker,py,lua,html,sass,js,arduino,java)](https://skillicons.dev)
+&nbsp;&nbsp;[![my skills](https://skillicons.dev/icons?i=linux,docker,py,lua,html,sass,ts,arduino,java)](https://skillicons.dev)
